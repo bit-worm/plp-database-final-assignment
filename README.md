@@ -10,7 +10,7 @@
 
 # 👀 Preview
 
-- Here's an ERD Diagram for the system.
+- Here's an ERD for the system.
 
 ![ERD Screenshot](asset/erd.png)
 
